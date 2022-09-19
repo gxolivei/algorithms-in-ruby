@@ -1,4 +1,4 @@
-def maxattempts(n)
+def max_attempts(n)
   Math.log2(n).ceil
 end
 
