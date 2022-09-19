@@ -15,3 +15,5 @@ binary_search_big_o_calculator.rb - Calculates the Big O of a binary search algo
 ## selection_sort folder
 
 find_smallest.rb - Finds the smallest element in an array. Part of the selection sort algorithm folder. Practicing concepts about number of operations needed to find the smallest element in an array using Big O notation, currently on arrays for reading O(1) instead of O(n) for a list. 
+
+selection_sort.rb - Selection sort algorithm using the find_smallest method to sort elements from smallest to biggest number.
