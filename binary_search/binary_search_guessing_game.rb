@@ -3,7 +3,7 @@
 # log base 2 of 100 is 6.64, so 7 is the max number of steps/tries
 
 def guess_number
-  puts "Think of an number between 0 and 100"
+  puts "Think of a number between 0 and 100"
   puts "I will try to guess it in 7 tries or less"
   puts "Enter 'h' if my guess is too high"
   puts "Enter 'l' if my guess is too low"
