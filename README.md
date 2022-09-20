@@ -2,6 +2,8 @@
 
 Hello, if you are new to programming (as I am) I hope you find this repository helpful.
 
+Any suggestions, code improvements, clones or forks are encouraged. If you have any doubt check the .md files available.
+
 This is my study repository for algorithms written in Ruby.
 
 ## binary_search folder
