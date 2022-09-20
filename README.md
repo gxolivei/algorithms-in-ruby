@@ -1,4 +1,4 @@
-# Algorithms
+# Algorithms in Ruby
 
 Hello, if you are new to programming (as I am) I hope you find this repository helpful.
 
