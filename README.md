@@ -12,12 +12,6 @@ binary_search_guessing_game.rb - Guessing game using binary search to practice a
 
 binary_search_big_o_calculator.rb - Calculates the Big O of a binary search algorithm. Get the number of elements and put the max number of operations needed. It's a simple and tiny method, but it's a start.
 
-## selection_sort folder
-
-find_smallest.rb - Finds the smallest element in an array. Part of the selection sort algorithm folder. Practicing concepts about number of operations needed to find the smallest element in an array using Big O notation, currently on arrays for reading O(1) instead of O(n) for a list. 
-
-selection_sort.rb - Selection sort algorithm using the find_smallest method to sort elements from smallest to biggest number.
-
 ## depth_first_search folder
 
 depth_first_search.rb - Depth First Search algorithm using a graph. This is a simple implementation of a graph data structure in Ruby. The code defines a class called "Graph" which has several methods:
@@ -27,3 +21,9 @@ depth_first_search.rb - Depth First Search algorithm using a graph. This is a si
 - The "dfs" method performs a depth-first search starting at a given node. It first prints the node, marks it as visited, then loops through all the vertices. For each vertex that is connected to the current node and has not been visited yet, it calls itself recursively with that vertex as the new starting point.
 - The last few lines of code create an instance of the Graph class with 4 vertices, and then creates several edges between them. Finally, it calls the dfs method starting at vertex 2.
 It will traverse all the vertices reachable from vertex 2 using DFS algorithm.
+
+## selection_sort folder
+
+find_smallest.rb - Finds the smallest element in an array. Part of the selection sort algorithm folder. Practicing concepts about number of operations needed to find the smallest element in an array using Big O notation, currently on arrays for reading O(1) instead of O(n) for a list. 
+
+selection_sort.rb - Selection sort algorithm using the find_smallest method to sort elements from smallest to biggest number.
